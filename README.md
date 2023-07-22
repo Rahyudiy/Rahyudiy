@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yudi</h1>
-<h4 align="justify">A passionate software engineering student with a keen interest in front-end development. I love creating visually appealing and user-friendly websites using HTML, CSS, and JavaScript. With a strong eye for design and a commitment to staying up-to-date with the latest technologies</h4>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Yudi</h1>
+
+<p>A passionate software engineering student with a keen interest in front-end development. I love creating visually appealing and user-friendly websites using HTML, CSS, and JavaScript. With a strong eye for design and a commitment to staying up-to-date with the latest technologies</p>
+
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 📫 How to reach me **gdengurahyudiantara@gmail.com**
 
