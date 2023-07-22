@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yudi</h1>
 <h3 align="center">A passionate software engineering student with a keen interest in front-end development. I love creating visually appealing and user-friendly websites using HTML, CSS, and JavaScript. With a strong eye for design and a commitment to staying up-to-date with the latest technologies</h3>
 
+- 📫 How to reach me **gdengurahyudiantara@gmail.com**
+
+- ⚡ Fun fact **Im not a weeb**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gde ngurah yudiantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gde ngurah yudiantara" height="30" width="40" /></a>
