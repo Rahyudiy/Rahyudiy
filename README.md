@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yudi</h1>
-<h3 align="center">A passionate software engineering student with a keen interest in front-end development. I love creating visually appealing and user-friendly websites using HTML, CSS, and JavaScript. With a strong eye for design and a commitment to staying up-to-date with the latest technologies</h3>
+<h4 align="justify">A passionate software engineering student with a keen interest in front-end development. I love creating visually appealing and user-friendly websites using HTML, CSS, and JavaScript. With a strong eye for design and a commitment to staying up-to-date with the latest technologies</h4>
 
 - 📫 How to reach me **gdengurahyudiantara@gmail.com**
 
