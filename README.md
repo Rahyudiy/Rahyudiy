@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rahyudiy](https://github.com/Rahyudiy)
 
+- 💻 My First personal website [https://rahyudiy.github.io/personal_website01/](https://rahyudiy.github.io/personal_website01/)
+
 - ⚡ Fun fact **Im not a weeb**
 
 <h3 align="left">Connect with me:</h3>
