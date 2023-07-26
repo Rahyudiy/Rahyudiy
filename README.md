@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gdengurahyudiantara@gmail.com**
 
-- - 👨‍💻 All of my projects are available at [https://github.com/Rahyudiy](https://github.com/Rahyudiy)
+- 👨‍💻 All of my projects are available at [https://github.com/Rahyudiy](https://github.com/Rahyudiy)
 
 - ⚡ Fun fact **Im not a weeb**
 
